@@ -1,0 +1,3 @@
+export const FETCH_TODOS = '@TODOS/FETCH'
+
+export const FETCH_TODOS_SUCCESS = '@TODOS/FETCH_SUCCESS'
